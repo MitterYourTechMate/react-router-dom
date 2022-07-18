@@ -1,6 +1,6 @@
 import React from "react"
 
-function News() {
+function Animals() {
   return (
     <div className="App">
       I am News Page
@@ -8,4 +8,4 @@ function News() {
   );
 }
 
-export default News;
+export default Animals;
